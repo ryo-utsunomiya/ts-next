@@ -3,5 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Ryo Utsunomiya <millionsnowliving@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "next": "^9.0.6",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  }
 }
