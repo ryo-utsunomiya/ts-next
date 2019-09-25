@@ -4,6 +4,11 @@
   "main": "index.js",
   "author": "Ryo Utsunomiya <millionsnowliving@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
   "dependencies": {
     "next": "^9.0.6",
     "react": "^16.9.0",
