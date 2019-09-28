@@ -1,5 +1,5 @@
 import React from "react"
-import {NextComponentType, NextPageContext} from "next"
+import { NextComponentType, NextPageContext } from "next"
 import styled from "styled-components"
 
 type Props = {
